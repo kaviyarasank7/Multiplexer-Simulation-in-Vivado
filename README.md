@@ -105,7 +105,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/d0f2d85c-a904-4b8f-94d6-804562b8288e)
 
 4:1 MUX Structural Implementation
-[23:02, 25/9/2024] Espacio✨: module and_gate(output a, input b, c, d);
+module and_gate(output a, input b, c, d);
 assign a = b & c & d;
 endmodule
 
@@ -128,8 +128,7 @@ and_gate u4(T2, b, s0, s1bar);
 and_gate u5(T3, c, s0bar, s1);
 and_gate u6(T4, d, s0, s1);
 or_gate u7(out, T1, T2, T3, T4);
-endmodule
-[23:06, 25/9/2024] Espacio✨: 
+endmodule 
 ![image](https://github.com/user-attachments/assets/d7a504ec-2c75-4091-9525-c0ec10bf9042)
 
 Testbench Implementation
