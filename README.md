@@ -60,7 +60,8 @@ You can include the timing diagram from the simulation window showing the correc
 
 17. Close the Simulation
 Once done, close the simulation by going to Simulation → "Close Simulation".
-
+<br>
+<br>
 # Logic Diagram
 
 ![image](https://github.com/user-attachments/assets/d4ab4bc3-12b0-44dc-8edb-9d586d8ba856)
