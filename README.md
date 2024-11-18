@@ -230,7 +230,7 @@ module mux4_to_1_tb;
     end
 endmodule
 
-
+<br>
 # Sample Output
 
 Time=0 | S1=0 S0=0 | Inputs: A=0 B=0 C=0 D=0 | Y_gate=0 | Y_dataflow=0 | Y_behavioral=0 | Y_structural=0
