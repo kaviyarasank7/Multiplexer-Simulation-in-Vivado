@@ -6,7 +6,7 @@ To design and simulate a 4:1 Multiplexer (MUX) using Verilog HDL in four differe
 APPARATUS REQUIRED:
 Vivado 2023.1
 
-Procedure
+Procedure:
 1. Launch Vivado
 Open Vivado 2023.1 by double-clicking the Vivado icon or searching for it in the Start menu.
 
